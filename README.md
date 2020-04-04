@@ -1,2 +1,2 @@
 # hello-world
-Get Going
+My names is Clifford Smith. I am learning how to use github.
